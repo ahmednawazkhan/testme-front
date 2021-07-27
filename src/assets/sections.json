@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Math",
+    "id": 1,
+    "chapters": [
+      { "id": 1, "label": "Algebra", "order": 1 },
+      { "id": 2, "label": "Equations", "order": 2 }
+    ]
+  },
+  {
+    "label": "English",
+    "id": 2,
+    "chapters": [
+      { "id": 1, "label": "Grammar", "order": 1 },
+      { "id": 2, "label": "Greeting", "order": 2 }
+    ]
+  },
+  {
+    "label": "Physics",
+    "id": 3,
+    "chapters": [
+      { "id": 1, "label": "Atomics", "order": 1 },
+      { "id": 2, "label": "Newton", "order": 2 }
+    ]
+  }
+]
